@@ -13,7 +13,10 @@ Python-Jupyter Notebook으로 DeepLearning을 이용한 자동차 모델 분류 
 ## Data Set
 - **출처** : AI Hub
 - **구성** : 국내 브랜드 별 대표 차종에 대한 낮/밤 , 수평각도/수직각도, 실내/실외의 구분으로 다중 촬영된 Image 파일입니다.
-  
+
+## CNN
+![car_cnn](https://user-images.githubusercontent.com/57980363/78028820-93336c00-739a-11ea-9c33-de888c8071fe.png)
+
 ## Improvements
   
 - **Data set pumping 후 model 생성 시 memory error 해결**  
