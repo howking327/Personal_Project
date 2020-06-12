@@ -3,10 +3,10 @@
 Python-Jupyter Notebook으로 DeepLearning을 이용한 자동차 브랜드 모델 분류 프로젝트입니다.  
 (2020/01/10 ~ -수정진행중- )
 
-### ▶  Concept
+### Concept
 사진을 찍어 상품을 검색하거나 동식물의 품종을 검색하는 등의 서비스를 차량 이미지 검색에 적용하기 위한 초석을 위한 DeepLearning 프로젝트 입니다.
 
-### ▶  Tool
+### Tool
 - **Language** : Python  
 - **Tool** : Jupyter Notebook
 
