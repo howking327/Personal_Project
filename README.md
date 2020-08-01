@@ -1,3 +1,3 @@
 # Personal_Project
 #### 1. Car Classification with Keras CNN
-- 자동차 모델 분류 : 패밀리룩으로 유사한 라인을 보여주는 르노삼성의 차종 이미지분석 DeepLearning 소스코드입니다. ( 수정 예정 )
+- 자동차 모델 분류 : 현대자동차의 3가지 차종에 대한 이미지를 분석하여 차종을 예측하는 이미지 분석 DeepLearning 테스트 코드입니다. ( 모델 수정 예정 )
